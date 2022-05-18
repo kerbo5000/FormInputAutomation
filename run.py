@@ -6,3 +6,7 @@ with FormInput() as bot:
         bot.tabs('signup')
         bot.signup()
         bot.add_account()
+        bot.add_account()
+        bot.add_account()
+        bot.add_account()
+        bot.account_file()
